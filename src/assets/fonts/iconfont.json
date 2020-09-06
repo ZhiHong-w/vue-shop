@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "212782",
+      "name": "show-password ",
+      "font_class": "showpassword",
+      "unicode": "ea3f",
+      "unicode_decimal": 59967
+    },
+    {
+      "icon_id": "587162",
+      "name": "user",
+      "font_class": "user",
+      "unicode": "e830",
+      "unicode_decimal": 59440
+    },
+    {
+      "icon_id": "1199149",
+      "name": "users",
+      "font_class": "users",
+      "unicode": "a",
+      "unicode_decimal": 10
+    },
+    {
+      "icon_id": "1727461",
+      "name": "225默认头像",
+      "font_class": "morentouxiang",
+      "unicode": "e8c9",
+      "unicode_decimal": 59593
+    },
+    {
+      "icon_id": "1727589",
+      "name": "406报表",
+      "font_class": "baobiao",
+      "unicode": "e902",
+      "unicode_decimal": 59650
+    },
+    {
+      "icon_id": "7712708",
+      "name": "password",
+      "font_class": "password",
+      "unicode": "e734",
+      "unicode_decimal": 59188
+    },
+    {
+      "icon_id": "16035104",
+      "name": "lock-fill",
+      "font_class": "lock-fill",
+      "unicode": "e6af",
+      "unicode_decimal": 59055
+    }
+  ]
+}
